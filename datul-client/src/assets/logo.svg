@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">DEVIUX Logo</title>
+  <desc id="desc">A blue and teal DV monogram logo.</desc>
+  <defs>
+    <linearGradient id="blueTeal" x1="94" y1="530" x2="546" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0057d8" />
+      <stop offset="0.48" stop-color="#0084e8" />
+      <stop offset="1" stop-color="#18d3c8" />
+    </linearGradient>
+    <linearGradient id="darkBlue" x1="178" y1="500" x2="410" y2="118" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#034ca8" />
+      <stop offset="1" stop-color="#00a8e8" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="640" rx="96" fill="#f8fbff" />
+  <path d="M150 130h92c76 0 143 43 176 108l52-108h74L384 486h-72L150 130Z" fill="url(#blueTeal)" />
+  <path d="M206 210v220h44c58 0 105-48 105-110S308 210 250 210h-44Z" fill="#f8fbff" />
+  <path d="M248 270h8c26 0 47 22 47 50s-21 50-47 50h-8V270Z" fill="url(#darkBlue)" />
+  <path d="M440 200h68L382 486h-68L440 200Z" fill="#f8fbff" opacity="0.92" />
+  <path d="M478 238h37L402 496h-37L478 238Z" fill="#009fdc" />
+</svg>
